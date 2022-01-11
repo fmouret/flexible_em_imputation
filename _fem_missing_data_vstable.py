@@ -96,12 +96,6 @@ class FEM():
     rand_initialization: bool
         True if random initialization
         False if K-Means initialization.
-    version: {1, 2, 3, 4}
-        version of the algorithm
-        1: with old, old, not square root
-        2: with old, new, not square root
-        3: with old, old, with square root
-        4: with old, new, with square root.
      max_iter_fp: integer>0
         maximum number of fixed-point iterations
 
