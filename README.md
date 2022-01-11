@@ -10,6 +10,10 @@ fem.fit(data_with_missing_values)
 
 X_imputed = fem.X_hat
 ```
+## Minimal example with synthetic data
+
+A minimal example is provided in the python file "run minimal example.py". Imputatation tasks are conudcted on synthetic data (see paper for details). The FEM algorithm is compared to the KNN and MICE imputation algorithms (using their sklearn implementation).
+
 ## Copyright
 
 Authors
