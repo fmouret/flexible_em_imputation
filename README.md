@@ -16,10 +16,10 @@ A minimal example is provided in the python file "run minimal example.py". Imput
 
 ## Dependencies
 
-- matplotlib==3.1.3
-- numpy==1.18.1
-- scikit_learn==1.0.2
-- scipy==1.7.1
+- matplotlib==3.2.1
+- numpy==1.19.5
+- scikit_learn==0.24.2
+- scipy==1.5.4
 
 ## Copyright
 
