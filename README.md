@@ -14,6 +14,14 @@ X_imputed = fem.X_hat
 
 A minimal example is provided in the python file "run minimal example.py". Imputatation tasks are conudcted on synthetic data (see paper for details). The FEM algorithm is compared to the KNN and MICE imputation algorithms (using their sklearn implementation).
 
+## Dependencies
+
+matplotlib==3.1.3
+numpy==1.18.1
+pandas==1.0.1
+scikit_learn==1.0.2
+scipy==1.7.1
+
 ## Copyright
 
 Authors
