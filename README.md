@@ -1,6 +1,8 @@
 # A Robust and Flexible EM Algorithm for Mixtures of Elliptical Distributions with Missing Data
 
-This repository contains the code that implements the algorithm proposed in "A Robust and Flexible EM Algorithm for Mixtures of Elliptical Distributions with Missing Data". The proposed algorithm is based on the clustering algorithm proposed in  https://arxiv.org/pdf/1907.01660.pdf. The original algorithm (in the complete data case) can be found here: https://github.com/violetr/fem 
+This repository contains the code that implements the algorithm proposed in the journal paper "A Robust and Flexible EM Algorithm for Mixtures of Elliptical Distributions with Missing Data", which is available here: https://arxiv.org/abs/2201.12020. 
+
+The proposed algorithm is based on the clustering algorithm proposed in  https://arxiv.org/pdf/1907.01660.pdf. The original algorithm (in the complete data case) can be found here: https://github.com/violetr/fem 
 
 The proposed algorithm is mainly dedicated to the imputation of missing values, but can be used as well for clustering in the presence of missing data.
 
@@ -29,3 +31,15 @@ Authors
 - Alexandre Hippert-Ferrer
 - Frédéric Pascal
 - Jean-Yves Tourneret
+
+## Cite this work
+
+@article{mouret2022fem,
+      title={A Robust and Flexible EM Algorithm for Mixtures of Elliptical Distributions with Missing Data}, 
+      author={Florian Mouret and Alexandre Hippert-Ferrer and Frédéric Pascal and Jean-Yves Tourneret},
+      year={2022},
+      journal={Under review},
+      eprint={2201.12020},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML}
+}
