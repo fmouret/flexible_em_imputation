@@ -35,11 +35,18 @@ Authors
 ## Cite this work
 
 @article{mouret2022fem,
+      
       title={A Robust and Flexible EM Algorithm for Mixtures of Elliptical Distributions with Missing Data}, 
+      
       author={Florian Mouret and Alexandre Hippert-Ferrer and Frédéric Pascal and Jean-Yves Tourneret},
+      
       year={2022},
+      
       journal={Under review},
+      
       eprint={2201.12020},
+      
       archivePrefix={arXiv},
+      
       primaryClass={stat.ML}
 }
