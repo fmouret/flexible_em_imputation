@@ -175,7 +175,7 @@ if __name__ == '__main__':
         print("MICE")
         clf = IterativeImputer(max_iter=20,
                                # estimator=estimator,
-                               n_nearest_features=20,
+                               # n_nearest_features=20,
                                # sample_posterior= True,
                                skip_complete=True,
                                )
